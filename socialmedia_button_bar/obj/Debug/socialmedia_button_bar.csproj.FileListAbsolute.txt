@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\bin\Debug\socialmedia_button_bar.exe.config
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\bin\Debug\socialmedia_button_bar.exe
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\bin\Debug\socialmedia_button_bar.pdb
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\obj\Debug\socialmedia_button_bar.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\obj\Debug\socialmedia_button_bar_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\obj\Debug\socialmedia_button_bar_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\obj\Debug\socialmedia_button_bar.g.resources
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\obj\Debug\socialmedia_button_bar.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\obj\Debug\socialmedia_button_bar.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\obj\Debug\socialmedia_button_bar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\obj\Debug\socialmedia_button_bar.exe
+C:\Users\Lenovo\source\repos\socialmedia_button_bar\socialmedia_button_bar\obj\Debug\socialmedia_button_bar.pdb
